@@ -93,12 +93,6 @@ The dataset contains information about students' CGPA and corresponding placemen
 
 ---
 
-## 🏁 Conclusion
-
-Simple Linear Regression is a powerful introductory machine learning algorithm for understanding predictive modeling. By learning the relationship between CGPA and placement package, this project demonstrates how regression models can be used to make data-driven predictions and evaluate performance using standard metrics.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -107,3 +101,9 @@ Simple Linear Regression is a powerful introductory machine learning algorithm f
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Simple Linear Regression is a powerful introductory machine learning algorithm for understanding predictive modeling. By learning the relationship between CGPA and placement package, this project demonstrates how regression models can be used to make data-driven predictions and evaluate performance using standard metrics.
